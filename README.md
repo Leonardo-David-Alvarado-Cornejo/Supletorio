@@ -1,5 +1,5 @@
 
-# DOCUMENTACIÓN DEL PROGRAMA DE FACTURARACIÓN
+# DOCUMENTACIÓN DEL PROGRAMA DE FACTURACIÓN
 
 # Autor ✒️
 ![Sin título](https://user-images.githubusercontent.com/87637743/127600567-1108c229-1f79-4db6-b719-682b6cc80813.png)
