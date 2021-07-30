@@ -89,6 +89,8 @@ Pasos para la Instalación del Programa:
 ## Ejecución ⚙️
 
 *1. En el primero punto saldrá “Ingresar los Productos" nos pedirá el articulo y el precio.* 
+
+
 *2. Luego de a ver ingresado todo los producto con su respectivo articulo y precio nos mostrará el "SubTotal" , el "IVA de 12%" , el "Descuento 10%" y el "Total".*
 
 ![image](https://user-images.githubusercontent.com/87637743/127622939-5e092581-58bd-4adb-bb72-b83929a4a2e6.png)
